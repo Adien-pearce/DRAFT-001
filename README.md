@@ -1,9 +1,3 @@
-Here’s a complete, ready-to-use **README.md** for your GitHub repository.  
-Copy everything below into a file named `README.md` at the root of your project.
-
----
-
-```markdown
 # EventHub – College Event Management System
 
 A clean, minimalist web application for managing college events.  
